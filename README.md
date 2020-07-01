@@ -1,4 +1,4 @@
-Heya! Whatsapp, so here is a demo for making a personal website
+Heya! Whatsapp, so here is a demo of making a personal website
 https://ayushisingla.github.io/
 
 Here are some screenshots of it :- 
