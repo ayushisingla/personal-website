@@ -2,10 +2,8 @@ Heya! Whatsapp, so here is a demo for making a personal website
 https://ayushisingla.github.io/
 
 Here are some screenshots of it :- 
-![Screenshot from 2020-06-27 22-14-03](https://user-images.githubusercontent.com/62255672/85927441-adaab200-b8c3-11ea-8071-5da62644fba2.png)
+![Screenshot from 2020-07-01 17-20-02](https://user-images.githubusercontent.com/62255672/86240620-29a44300-bbbf-11ea-8e1f-f06069236585.png)
+![Screenshot from 2020-07-01 17-19-59](https://user-images.githubusercontent.com/62255672/86240624-2b6e0680-bbbf-11ea-8203-6fcb15131d52.png)
+![Screenshot from 2020-07-01 17-19-58](https://user-images.githubusercontent.com/62255672/86240626-2c9f3380-bbbf-11ea-9ac4-c2e1fef61946.png)
+![Screenshot from 2020-07-01 17-19-55](https://user-images.githubusercontent.com/62255672/86240631-2dd06080-bbbf-11ea-95bf-526d552e40b0.png)
 
-![Screenshot from 2020-06-27 22-14-11](https://user-images.githubusercontent.com/62255672/85927440-ad121b80-b8c3-11ea-97a5-ec5248b090c3.png)
-
-![Screenshot from 2020-06-27 22-14-18](https://user-images.githubusercontent.com/62255672/85927439-ac798500-b8c3-11ea-9f8a-88e0980bad6f.png)
-
-![Screenshot from 2020-06-27 22-14-23](https://user-images.githubusercontent.com/62255672/85927438-aaafc180-b8c3-11ea-9cef-9a99f1ade4d0.png)
