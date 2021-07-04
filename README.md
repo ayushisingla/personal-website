@@ -1,6 +1,8 @@
 Heya! Whatsapp, so here is a demo of making a personal website
 https://ayushisingla.github.io/
 
+Guided by Angelina
+
 Here are some screenshots of it :- 
 ![Screenshot from 2020-07-01 17-21-54](https://user-images.githubusercontent.com/62255672/86240770-6a9c5780-bbbf-11ea-8b15-82a6b1ef1820.png)
 ![Screenshot from 2020-07-01 17-21-57](https://user-images.githubusercontent.com/62255672/86240766-6a03c100-bbbf-11ea-8f72-d22e5cbcfa0a.png)
