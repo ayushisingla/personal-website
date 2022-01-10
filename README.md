@@ -1,6 +1,6 @@
 # Personal Website:
 
-https://ayushisingla.github.io/
+https://ayushisingla.github.io/personal-website/
 
 Guided by Angelina
 
